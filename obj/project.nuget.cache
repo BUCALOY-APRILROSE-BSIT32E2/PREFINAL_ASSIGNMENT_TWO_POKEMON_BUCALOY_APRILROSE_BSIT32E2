@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8BjOx98pxB2lPamWqKNi6jH7WcIf1f5nGRO7l248NvdXVbXBdgDXjQ+5Gn1xvKOaN1B0KxgeUTJlXRmilOjMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevin Francisco\\Downloads\\MVC Projects\\MyPokemonApplication\\MyPokemonApplication\\MyPokemonApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin Francisco\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
